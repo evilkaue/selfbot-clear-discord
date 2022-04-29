@@ -4,7 +4,7 @@ const {
 } = require('./config.json')
 
 const request = require("request");
-const colors = require('colors-dev')
+const colors = require('colors_express')
 const {
     Client
 } = require('discord.js-selfbot-v11')
